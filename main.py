@@ -27,7 +27,7 @@ class InstagramBot():
         self.browser.execute_script('window.alert("test")')
          
 
-bot = InstagramBot('nonapijamas', '2374589brpk')
+bot = InstagramBot('nonapijamas', '1221212')
 bot.signIn()        
 
      
